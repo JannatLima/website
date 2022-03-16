@@ -1,0 +1,13 @@
+
+img {
+	max-width: 100%;
+}
+
+.btn {
+	border-radius: 0;
+}
+
+.navbar-nav > li {
+	margin-left: 12px;
+	margin-right: 12px;
+}
